@@ -1,0 +1,47 @@
+﻿Build started 10/25/2022 6:35:50 AM.
+     1>Project "E:\Works\C++\Profit Calculator Complete\task_6\task_6.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\task_6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\task_6.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt task_6.cpp task_6Dlg.cpp
+         task_6Dlg.cpp
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(342): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(343): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(345): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(346): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(347): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(413): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(414): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(416): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(417): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(418): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(458): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(459): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(461): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(462): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(463): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(540): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(541): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(543): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(544): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(545): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(594): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(595): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(597): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(598): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\works\c++\profit calculator complete\task_6\task_6dlg.cpp(599): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+         task_6.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\task_6.res" task_6.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Works\C++\Profit Calculator Complete\Debug\task_6.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Works\C++\Profit Calculator Complete\Debug\task_6.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Works\C++\Profit Calculator Complete\Debug\task_6.lib" /MACHINE:X86 Debug\task_6.res
+         Debug\stdafx.obj
+         Debug\task_6.obj
+         Debug\task_6Dlg.obj
+         task_6.vcxproj -> E:\Works\C++\Profit Calculator Complete\Debug\task_6.exe
+     1>Done Building Project "E:\Works\C++\Profit Calculator Complete\task_6\task_6.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.74

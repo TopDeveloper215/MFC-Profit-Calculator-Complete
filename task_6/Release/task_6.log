@@ -1,0 +1,44 @@
+﻿Build started 10/25/2022 7:13:43 AM.
+     1>Project "E:\Works\C++\Profit Calculator Complete\task_6\task_6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\task_6.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt task_6.cpp task_6Dlg.cpp
+         task_6.cpp
+         task_6Dlg.cpp
+     1>task_6Dlg.cpp(342): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(343): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(345): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(346): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(347): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(413): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(414): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(416): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(417): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(418): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(458): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(459): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(461): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(462): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(463): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(540): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(541): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(543): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(544): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(545): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(594): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(595): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(597): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(598): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>task_6Dlg.cpp(599): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Works\C++\Profit Calculator Complete\Release\task_6.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Works\C++\Profit Calculator Complete\Release\task_6.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Works\C++\Profit Calculator Complete\Release\task_6.lib" /MACHINE:X86 /SAFESEH Release\task_6.res
+         Release\stdafx.obj
+         Release\task_6.obj
+         Release\task_6Dlg.obj
+         Generating code
+         Finished generating code
+         task_6.vcxproj -> E:\Works\C++\Profit Calculator Complete\Release\task_6.exe
+     1>Done Building Project "E:\Works\C++\Profit Calculator Complete\task_6\task_6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.35
